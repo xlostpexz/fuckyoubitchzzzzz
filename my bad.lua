@@ -1,5 +1,5 @@
 loadstring(game:HttpGet("https://pastebin.com/raw/9GLzbq4a"))()
-loadstring(game:HttpGet("https://pastebin.com/568c0pmE"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/568c0pmE"))()
 
     if not game:IsLoaded()then 
         local a=Instance.new("Message",workspace);
